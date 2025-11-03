@@ -1,0 +1,26 @@
+{
+    "template":[
+        {
+            "fullName": "",
+            "imageName": "",
+            "creationDate": "",
+            "pronouns": "",
+            "gender": "",
+            "age": "",
+            "mainUniverse": "",
+            "otherUniverses": "",
+
+            "descriptionShort": "",
+            "descriptionLong": "",
+
+            "personalitySummary": "",
+            "occupation": "",
+            "backstory": "",
+            "appearanceDescription": "",
+            "clothing":"",
+
+            "abilities": "",
+            "skills": ""
+        }
+    ]
+}
