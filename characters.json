@@ -229,48 +229,231 @@
         },
 
 
-        
+
         {
             "characterProfile": {
-                "fullName": "",
-                "gender": "",
-                "pronouns": "",
-                "age":"",
-                "height": "",
-                "weight": "",
-                "birthday": ""
+                "fullName": "Brew",
+                "gender": "Female",
+                "pronouns": "She/Her",
+                "age":"21",
+                "height": "5'2\"",
+                "weight": "Unknown",
+                "birthday": "September 24th"
             },
 
             "universeInfo":{
-                "mainUniverse": "",
+                "mainUniverse": "Phighting",
+                "otherUniverses": []                
+            },
+            
+            "characterSkills": {
+                "abilities": ["Gear-Summoning"],
+                "skills": ["Potion Brewing", "AOE-Damage"],
+                "weaknesses": ["Low damage and Range", "Weak when Alone"],
+                "strengths":["AOE / Splash Damage", "Multiclass"]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "Brew is a white Robloxian with long, black hair.",
+                "clothingDescription":"Long Purple Scarf, Purple Witches' Hat, Heartbeat Facemask",
+                "personalitySummary": "Social, Extrovert, Kind, Prickly, Rude, Short Sighted, Competitive",
+                "imageName":"brew.png",
+                "imageAlt": "A Picture of Brew"
+            },
+
+            "storyInfo":{
+                "backstory":"Brew is a loyal inphernal to the Thieves' Den. She grew up in the safer parts of the thieves' den, rarely seeing the violence that the Inpherno had to offer.",
+                "occupation":"Potionseller / Phighter"
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": ["phighting", "roblox"],
+                "creationDate": "08/28/2023",
+                "category": "Fandom"
+            }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "Dye",
+                "gender": "Female",
+                "pronouns": "She/Her",
+                "age":"19",
+                "height": "5'1\"",
+                "weight": "Unknown",
+                "birthday": "October 13th"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Phighting",
+                "otherUniverses": []                
+            },
+            
+            "characterSkills": {
+                "abilities": ["Gear-Summoning"],
+                "skills": ["Sharpshooter", "Cover-Fire"],
+                "weaknesses": ["Low Damage", "Weak up close"],
+                "strengths":["Fast Firerate"]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "Dye is a white Robloxian with long, black hair.",
+                "clothingDescription":"Very Casual clothing. A Red and gray Hoodie, sweatpants, a red beanie and a red Heartbeat facemask.",
+                "personalitySummary": "Social, Energetic, Chaotic, Annoyed",
+                "imageName":"dye.png",
+                "imageAlt": "A Picture of Dye"
+            },
+
+            "storyInfo":{
+                "backstory":"Dye is a loyal inphernal to Playground. She grew up in the crossroads, before moving to the playground.",
+                "occupation":"Paintball-arena employee / Phighter"
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": ["phighting", "roblox"],
+                "creationDate": "08/28/2023",
+                "category": "Fandom"
+            }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "Toxin",
+                "gender": "Female",
+                "pronouns": "She/Her",
+                "age":"21",
+                "height": "5'2\"",
+                "weight": "Unknown",
+                "birthday": "June 13th"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Phighting",
+                "otherUniverses": []                
+            },
+            
+            "characterSkills": {
+                "abilities": ["Gear-Summoning"],
+                "skills": ["Knowledge of Poisons", "Scythe-Fighting", "CQB"],
+                "weaknesses": ["Slow and Unwieldy weapon", "Slow movement speeed", "Weak when Alone", "Weak against Ranged Enemies"],
+                "strengths":["All attacks deal bonus poison-damage", "Most attacks deal AOE", "A Poisonous trial follows her weapon"]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "Toxin is a white Robloxian with long, black and green hair.",
+                "clothingDescription":"Dark and professional clothing. A green and black Scientist uniform, a green gas mask and a purple domino crown",
+                "personalitySummary": "Professional, Nice (Friends / Allies), Monotone, Rude (Dislikes), Supportive",
+                "imageName":"toxin.png",
+                "imageAlt": "A Picture of Toxin"
+            },
+
+            "storyInfo":{
+                "backstory":"A Loyal Blackrockian. She grew up in Blackrock, growing to love the science-aspect of the faction. They moved to crossroads to learn more about Toxicology, using her knowledge to enchant her assigned gear with a poison effect. She moved back to Blackrock shortly after, becoming a loyal member of Blackrock's Science Department, mostly focused on developing Chemical weapons for Blackrock.",
+                "occupation":"Toxicologist and Researcher for Blackrock / Phighter"
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": ["phighting", "roblox"],
+                "creationDate": "28/08/2023",
+                "category": "Fandom"
+            }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "Null",
+                "gender": "Female",
+                "pronouns": "She/Her",
+                "age":"21",
+                "height": "5'4\"",
+                "weight": "Unknown",
+                "birthday": "January 13th"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Phighting",
+                "otherUniverses": []                
+            },
+            
+            "characterSkills": {
+                "abilities": ["Gear-Summoning", "Gliding"],
+                "skills": ["Hacking", "Ability Copying"],
+                "weaknesses": ["Weak against most Enemies", "Low Damage", "Squishy"],
+                "strengths":["Extra damage against Robotic Enemies", "Good Movement"]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "Null is a white Robloxian with short green hair, and a large set of Lime green wireframe wings",
+                "clothingDescription":"Very Bright clothing. Black pants, a lime green Binary-Digit jacket and a green Heartbeat facemask.",
+                "personalitySummary": "Excitable, Positive, Energetic, Paranoid",
+                "imageName":"null.png",
+                "imageAlt": "A Picture of Null"
+            },
+
+            "storyInfo":{
+                "backstory":"Null is a notorious hacker from the Thieves' Den. She grew up in a posh part of Thieves' den, growing up around computers. They taught themselves programming and hacking, putting themselves to the ultimate test by hacking into the server of The Flipside, leaking tons of information. She was arrested, but was let go with a warning.",
+                "occupation":"Professional Hacker / Phighter"
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": ["phighting", "roblox"],
+                "creationDate": "mm/dd/yyyy",
+                "category": ""
+            }
+        },
+
+
+        {
+            "characterProfile": {
+                "fullName": "North Fowler",
+                "gender": "Genderfluid",
+                "pronouns": "Any Pronouns",
+                "age":"23",
+                "height": "Unknown",
+                "weight": "Unknown",
+                "birthday": "February 23th"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Enter The Crossroads (OC Universe)",
                 "otherUniverses": []                
             },
             
             "characterSkills": {
                 "abilities": [],
-                "skills": [],
+                "skills": ["Gunsmithing", "Sharpshooter"],
                 "weaknesses": [],
                 "strengths":[]
             },
 
             "descriptions":{
-                "appearanceDescription": "",
-                "clothingDescription":"",
-                "personalitySummary": "",
-                "imageName":"",
-                "imageAlt": ""
+                "appearanceDescription": "North is a white Robloxian, with no major appearance details to note.",
+                "clothingDescription":"Very Casual clothing. A Gray striped hoodie and black pants.",
+                "personalitySummary": "A fun and outgoing person. Outgoing, Extroverted, Paranoid",
+                "imageName":"northFowler.png",
+                "imageAlt": "A Picture of North"
             },
 
             "storyInfo":{
-                "backstory":"",
-                "occupation":""
+                "backstory":"North is a robloxian living in the Crossroads. From a young age, she had a interest in firearms. Wanting a safe place to fire firearms, she and a couple of friends built Crossroad's first indoor Firing Range.",
+                "occupation":"Co-Owner of a Firing Range and Weapons Expert"
             },
 
             "metaInfo":{
                 "creatorNotes":[],
-                "tags": [],
-                "creationDate": "mm/dd/yyyy",
-                "category": ""
+                "tags": ["roblox"],
+                "creationDate": "09/22/2024",
+                "category": "Non-Fandom"
             }
         }
 
