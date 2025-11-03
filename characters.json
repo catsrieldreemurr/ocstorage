@@ -8,7 +8,7 @@
                 "age":"16/17",
                 "height": "Unknown",
                 "weight": "Unknown",
-                "birthday": "August 10th 2006"
+                "birthday": "August 10th"
             },
 
             "universeInfo":{
@@ -54,7 +54,7 @@
                 "age":"18",
                 "height": "Unknown",
                 "weight": "Unknown",
-                "birthday": "December 8th, 2002"
+                "birthday": "December 8th"
             },
 
             "universeInfo":{
@@ -146,7 +146,7 @@
                 "age":"3",
                 "height": "12 inches",
                 "weight": "Light",
-                "birthday": "April 23, 2022"
+                "birthday": "April 23"
             },
 
             "universeInfo":{
@@ -192,7 +192,7 @@
                 "age":"16",
                 "height": "5'6\"",
                 "weight": "Unknown",
-                "birthday": "May 24th, 2002"
+                "birthday": "May 24th"
             },
 
             "universeInfo":{
@@ -454,6 +454,190 @@
                 "tags": ["roblox"],
                 "creationDate": "09/22/2024",
                 "category": "Non-Fandom"
+            }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "Antique TV",
+                "gender": "Non-Binary",
+                "pronouns": "They/Them",
+                "age":"18",
+                "height": "Unknown",
+                "weight": "Unknown",
+                "birthday": "August 10th"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Fight for the Fish",
+                "otherUniverses": []                
+            },
+            
+            "characterSkills": {
+                "abilities": ["Has the ability to play Media content on their screen"],
+                "skills": [],
+                "weaknesses": ["Fragile Screen"],
+                "strengths":[]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "Antique TV is a wooden Antique TV Box. Their screen is olive-green.",
+                "clothingDescription":"Non-Binary Flag Pin",
+                "personalitySummary": "A Positive and cheery person. They are the sunshine of any room.",
+                "imageName":"antiqueTV.png",
+                "imageAlt": "A Picture of Antique TV"
+            },
+
+            "storyInfo":{
+                "backstory":"Antique TV and No Parking sign were close friends, spending time together even before the show started. After Fight for the fish started, the two of the stuck together, teaming up.",
+                "occupation":"Contestant"
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": ["osc", "object show"],
+                "creationDate": "04/04/2025",
+                "category": "Object-Show OCs"
+            }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "No Parking Sign",
+                "gender": "Genderfluid",
+                "pronouns": "Any Pronouns",
+                "age":"17",
+                "height": "Unknown",
+                "weight": "Unknown",
+                "birthday": "March 18th"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Fight for the Fish",
+                "otherUniverses": []                
+            },
+            
+            "characterSkills": {
+                "abilities": [],
+                "skills": [],
+                "weaknesses": [],
+                "strengths":[]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "No Parking sign is a european no parking sign. They are primarily blue and red on the front.",
+                "clothingDescription":"N/A",
+                "personalitySummary": "A positive piece of chaos that knows how to make everyone smile.",
+                "imageName":"noParkingSign.png",
+                "imageAlt": "A Picture of No Parking Sign"
+            },
+
+            "storyInfo":{
+                "backstory":"Antique TV and No Parking sign were close friends, spending time together even before the show started. After Fight for the fish started, the two of the stuck together, teaming up.",
+                "occupation":"Contestant"
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": ["osc", "object show"],
+                "creationDate": "03/24/2025",
+                "category": "Object-Show OCs"
+            }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "Magazine",
+                "gender": "Female",
+                "pronouns": "She/Her",
+                "age":"16",
+                "height": "Unknown",
+                "weight": "Unknown",
+                "birthday": "April 11th"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Fight for the Fish",
+                "otherUniverses": []                
+            },
+            
+            "characterSkills": {
+                "abilities": [],
+                "skills": [],
+                "weaknesses": [],
+                "strengths":[]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "Magazine is a orange, brightly coloured magazine with the title 'The Weekly Tangerine'.",
+                "clothingDescription":"N/A",
+                "personalitySummary": "Quiet, Positive",
+                "imageName":"magazine.png",
+                "imageAlt": "A picture of Magazine"
+            },
+
+            "storyInfo":{
+                "backstory":"Magazine got an interest in cameras early on. She started messing around with cameras outside of the show, and helped manage the cameras for the show once it started, next to competing.",
+                "occupation":"Contestant"
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": ["osc", "object show"],
+                "creationDate": "07/15/2024",
+                "category": "Object-Show OCs"
+            }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "Vase of Flowers",
+                "gender": "Female",
+                "pronouns": "She/Her",
+                "age":"18",
+                "height": "Unknown",
+                "weight": "Unknown",
+                "birthday": "December 12th"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Fight for the Fish",
+                "otherUniverses": []                
+            },
+            
+            "characterSkills": {
+                "abilities": [],
+                "skills": [],
+                "weaknesses": [],
+                "strengths":[]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "Vase of Flowers is a gray vase, with a yellow half-moon symbol on it. She has a bouquet of colourful flowers coming out of the vase.",
+                "clothingDescription":"N/A",
+                "personalitySummary": "Quiet, Reserved, Paranoid, Anxious",
+                "imageName":"vaseOfFlowers.png",
+                "imageAlt": "A picture of Vase of Flowers"
+            },
+
+            "storyInfo":{
+                "backstory":"Vase of Flowers was always a quiet one. She rarely spoke with the others, and was usually alone. There was one person who managed to befriend her, and became her closest friend. The two of them decided to go camping together, lighting a campfire in the middle of the forest. A forest fire soon started as heavy winds carried embers from the fire away. The forest fire grew massive, and ended up killing her friend. Vase Survived the ordeal, but now lives with guilt over them surviving, and not their friend.",
+                "occupation":"Contestant"
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": ["osc", "object show", "angst"],
+                "creationDate": "04/28/2025",
+                "category": "Object-Show OCs"
             }
         }
 
