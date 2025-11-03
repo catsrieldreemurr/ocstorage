@@ -2,42 +2,44 @@
     "characters":[
         {
             "characterProfile": {
-                "fullName": "",
-                "gender": "",
-                "pronouns": "",
-                "age":"",
-                "height": "",
-                "weight": ""
+                "fullName": "Evelyn Campbell",
+                "gender": "Non-Binary",
+                "pronouns": "They/Them",
+                "age":"16/17",
+                "height": "Unknown",
+                "weight": "Unknown",
+                "birthday": "August 10th 2006"
             },
 
             "universeInfo":{
-                "mainUniverse": "",
+                "mainUniverse": "N/A",
                 "otherUniverses": []                
             },
             
             "characterSkills": {
                 "abilities": [],
-                "skills": [],
+                "skills": ["Guitar Playing"],
                 "weaknesses": [],
                 "strengths":[]
             },
 
             "descriptions":{
-                "characterDescription":"",
-                "appearanceDescription": "",
-                "personalitySummary": "",
-                "imageName":"",
-                "imageAlt": ""
+                "appearanceDescription": "Evelyn is a white Robloxian. They do not really have any notable features.",
+                "clothingDescription":"Black pants, Gray Suit with a black vest on top, black cloth facemask and a Monster Beanie",
+                "personalitySummary": "Upbeat and Social",
+                "imageName":"evelynCampbell.png",
+                "imageAlt": "A picture of Evelyn Campbell"
             },
 
             "storyInfo":{
-                "backstory":"",
-                "occupation":""
+                "backstory":"Evelyn lived in the city with their parents. They started showing interest in the band when they started middle school, and started playing the Guitar. They enjoyed it, and started their own band with a couple of friends called 'Midnight'. They are the main guitarist.",
+                "occupation":"Guitarist of Midnight"
             },
 
             "metaInfo":{
-                "creatorNotes":[],
-                "tags": []
+                "creatorNotes":["My first ever OC!"],
+                "tags": ["band", "student", "inactive", "cringe"],
+                "creationDate": "10/11/2022"
             }
         }
     ]

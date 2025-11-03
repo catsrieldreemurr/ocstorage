@@ -7,7 +7,8 @@
                 "pronouns": "",
                 "age":"",
                 "height": "",
-                "weight": ""
+                "weight": "",
+                "birthday": ""
             },
 
             "universeInfo":{
@@ -23,8 +24,8 @@
             },
 
             "descriptions":{
-                "characterDescription":"",
                 "appearanceDescription": "",
+                "clothingDescription":"",
                 "personalitySummary": "",
                 "imageName":"",
                 "imageAlt": ""
@@ -37,7 +38,8 @@
 
             "metaInfo":{
                 "creatorNotes":[],
-                "tags": []
+                "tags": [],
+                "creationDate": "mm/dd/yyyy"
             }
         }
     ]
