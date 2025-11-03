@@ -1,26 +1,44 @@
 {
     "template":[
         {
-            "fullName": "",
-            "imageName": "",
-            "creationDate": "",
-            "pronouns": "",
-            "gender": "",
-            "age": "",
-            "mainUniverse": "",
-            "otherUniverses": "",
+            "characterProfile": {
+                "fullName": "",
+                "gender": "",
+                "pronouns": "",
+                "age":"",
+                "height": "",
+                "weight": ""
+            },
 
-            "descriptionShort": "",
-            "descriptionLong": "",
+            "universeInfo":{
+                "mainUniverse": "",
+                "otherUniverses": []                
+            },
+            
+            "characterSkills": {
+                "abilities": [],
+                "skills": [],
+                "weaknesses": [],
+                "strengths":[]
+            },
 
-            "personalitySummary": "",
-            "occupation": "",
-            "backstory": "",
-            "appearanceDescription": "",
-            "clothing":"",
+            "descriptions":{
+                "characterDescription":"",
+                "appearanceDescription": "",
+                "personalitySummary": "",
+                "imageName":"",
+                "imageAlt": ""
+            },
 
-            "abilities": "",
-            "skills": ""
+            "storyInfo":{
+                "backstory":"",
+                "occupation":""
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": []
+            }
         }
     ]
 }
