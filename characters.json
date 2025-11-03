@@ -730,6 +730,52 @@
                 "creationDate": "10/30/2025",
                 "category": "Non-Fandom"
             }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "Fern Baxxter",
+                "gender": "Female",
+                "pronouns": "She/Her",
+                "age":"17",
+                "height": "5'6",
+                "weight": "134 lbs",
+                "birthday": "June 7th"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "All (Main Sona()",
+                "otherUniverses": ["Pressure"]                
+            },
+            
+            "characterSkills": {
+                "abilities": [],
+                "skills": ["Engineering", "Programming"],
+                "weaknesses": [],
+                "strengths":[]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "White Female individual with long, black hair. She has a deep cut across their right eye, often covered up with a facial bandage. She also have a slash across their chest, and has a set of 2 black horns with silver tips.",
+                "clothingDescription":"Gray Pants, black jacket and white shirt, ski goggles, hair pins, belt with chains, bag ",
+                "personalitySummary": "",
+                "imageName":"fern.png",
+                "imageAlt": "A Picture of Fern"
+            },
+
+            "storyInfo":{
+                "backstory":"N/A",
+                "occupation":"N/A (Canon) / M-2 Maintenance Engineer for the Hadal Blacksite"
+            },
+
+            "metaInfo":{
+                "creatorNotes":["Old sona which has been changed to mostly a Pressure OC. Still sometimes use it as a sona."],
+                "tags": ["roblox", "sona"],
+                "creationDate": "mm/dd/yyyy",
+                "category": "Non-Fandom"
+            }
         }
 
     ]
