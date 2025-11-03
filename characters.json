@@ -639,6 +639,97 @@
                 "creationDate": "04/28/2025",
                 "category": "Object-Show OCs"
             }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "552x2",
+                "gender": "Genderfluid",
+                "pronouns": "Any Pronouns",
+                "age":"27",
+                "height": "Unknown",
+                "weight": "Unknown",
+                "birthday": "May 15th"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "PROJECT 0VERGR0WWTH",
+                "otherUniverses": ["Forsaken"]                
+            },
+            
+            "characterSkills": {
+                "abilities": ["Nature Control", "Flower Growth", "Reanimation"],
+                "skills": [],
+                "weaknesses": ["Grieving the loss of their Child", "Any mentions of their Child", "Fire"],
+                "strengths":["Powerful nature control"]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "552x2 is a Robloxian with light brown skin. They have vines growing over their body, covering their face.",
+                "clothingDescription":"A set of blue-green pants, a solid green torso with a picture of a poorly drawn black and white flower. They wear a witches' hat wrapped with orange leaves, and wooden antlers.",
+                "personalitySummary": "Quiet, Reserved, Paranoid, Mourning",
+                "imageName":"552x2.png",
+                "imageAlt": "A picture of 552x2"
+            },
+
+            "storyInfo":{
+                "backstory":"552x2 was the guardian of a forest settlement, using their magic to keep the settlement safe. One night, 0vergr0wwth, 2x2's child fell ill and died not long after. This struck 2x2 extremely hard. They started mourning the loss of their child, letting the settlement fall into ruin. Out of her grief, she used her plant magic to 'revive' 0vergr0wwth, moving them around like a puppet on strings with their vines.",
+                "occupation":"The Guardian of the Forest / Witch"
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": ["roblox", "forsaken", "au"],
+                "creationDate": "09/15/2025",
+                "category": "Fandom"
+            }
+        },
+
+
+        {
+            "characterProfile": {
+                "fullName": "Stardom",
+                "gender": "Genderfluid",
+                "pronouns": "Any Pronouns",
+                "age":"21",
+                "height": "Unknown",
+                "weight": "Unknown",
+                "birthday": ""
+            },
+
+            "universeInfo":{
+                "mainUniverse": "N/A",
+                "otherUniverses": []                
+            },
+            
+            "characterSkills": {
+                "abilities": [],
+                "skills": [],
+                "weaknesses": [],
+                "strengths":[]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "Stardom is a Robloxian with light brown skin. They wear brightly coloured jester's clothes.",
+                "clothingDescription":"Brightly coloured jester's clothes. Black and red Pants, skirt and jacket, with different symbols painted across. They have stickers of skulls and stars accross the clothes. They have the comedy and tragedy faces sewn into the fabric of their jacket. They have a yellow ribbon accross their chest, and a multicoloured hat.",
+                "personalitySummary": "A chaotic individual where nothing is quite as it seems.",
+                "imageName":"stardom.png",
+                "imageAlt": "A Picture of Stardom"
+            },
+
+            "storyInfo":{
+                "backstory":"Unknown",
+                "occupation":"Jester"
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": ["sona", "independant", "roblox", "evil"],
+                "creationDate": "10/30/2025",
+                "category": "Non-Fandom"
+            }
         }
 
     ]
