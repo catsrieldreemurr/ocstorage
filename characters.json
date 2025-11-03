@@ -38,9 +38,241 @@
 
             "metaInfo":{
                 "creatorNotes":["My first ever OC!"],
-                "tags": ["band", "student", "inactive", "cringe"],
-                "creationDate": "10/11/2022"
+                "tags": ["band", "student", "inactive", "cringe", "old"],
+                "creationDate": "10/11/2022",
+                "category": "General"
+            }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "Niko's Hat",
+                "gender": "Female",
+                "pronouns": "She/Her or They/Them",
+                "age":"18",
+                "height": "Unknown",
+                "weight": "Unknown",
+                "birthday": "December 8th, 2002"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Fight for the Fish",
+                "otherUniverses": ["XFOHV"]                
+            },
+            
+            "characterSkills": {
+                "abilities": [],
+                "skills": [],
+                "weaknesses": [],
+                "strengths":["Anything Fire-related"]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "Purple Hat shaped like a cat. The ears are a lighter shade of purple.",
+                "clothingDescription":"Transgender Pin",
+                "personalitySummary": "Chaotic, but Chill - Likes Fire!!",
+                "imageName":"nikoshat.png",
+                "imageAlt": "A Picture of Niko's Hat"
+            },
+
+            "storyInfo":{
+                "backstory":"Niko's Hat met Thirteen randomly, and the two got along well. She started hanging out at the equation playground with Thirteen, until a mysterious fish approached her about a show. She competed on Fight for the Fish until her elimimation, after which she spent over two years locked away with the other losers.",
+                "occupation":"Contestant"
+            },
+
+            "metaInfo":{
+                "creatorNotes":["Art by by wonderful friend Aleta/Eepy!", "Former Object-Show Sona"],
+                "tags": ["osc", "object show", "oneshot", "old"],
+                "creationDate": "03/23/2023",
+                "category": "Object-Show OCs"
+            }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "Thirteen",
+                "gender": "Genderfluid",
+                "pronouns": "Any Pronouns",
+                "age":"19",
+                "height": "Unknown",
+                "weight": "Unknown",
+                "birthday": "Unknown"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Fight for the Fish",
+                "otherUniverses": ["XFOHV"]                
+            },
+            
+            "characterSkills": {
+                "abilities": [],
+                "skills": [],
+                "weaknesses": ["Clumsy"],
+                "strengths":[]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "A yellow Arabic numeral Thirteen",
+                "clothingDescription":"N/A",
+                "personalitySummary": "A clumsy, silly goober",
+                "imageName":"thirteen.png",
+                "imageAlt": "A Picture of a yellow number 13 being silly"
+            },
+
+            "storyInfo":{
+                "backstory":"Thirteen randomly met Niko's Hat one day, and the two got along very well. Thirteen invited Niko's hat over to the Equation Playground, and they started spending a lot of time together. They competed on Fight for the Fish together, Reaching the final 3. However, they still snuck away every night to say hi to Niko's hat after she was eliminated.",
+                "occupation":"Contestant"
+            },
+
+            "metaInfo":{
+                "creatorNotes":["Original Art by Ian Woodside."],
+                "tags": ["osc", "object show", "old"],
+                "creationDate": "mm/dd/yyyy",
+                "category": "Object-Show OCs"
+            }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "Red",
+                "gender": "Female",
+                "pronouns": "She/Her",
+                "age":"3",
+                "height": "12 inches",
+                "weight": "Light",
+                "birthday": "April 23, 2022"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Just Shapes & Beats",
+                "otherUniverses": ["Pink Corruption"]                
+            },
+            
+            "characterSkills": {
+                "abilities": ["Dash", "Flight"],
+                "skills": ["Fighting", "Stealth"],
+                "weaknesses": ["Pure Shapes"],
+                "strengths":["Corruption"]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "A Pink Rhombus, with a small body in a darker pink colour.",
+                "clothingDescription":"Light Armour, also shaded pink.",
+                "personalitySummary": "A Upfront and confrontational shape that will speak her mind. Can be seen as Hostile and Violent.",
+                "imageName":"red.png",
+                "imageAlt": "A picture of Red"
+            },
+
+            "storyInfo":{
+                "backstory":"Red was one of the Heroes of Paradise, working closely with the others to keep it safe. After a big argument with the group, she split off and went on her own, eventually finding herself captured by Blixer and his forces. She was corrupted, and trained to become a loyal fighter of Blixer's army.",
+                "occupation":"Ex-Hero"
+            },
+
+            "metaInfo":{
+                "creatorNotes":["Art by one of my friends :)"],
+                "tags": ["jsab", "evil", "old"],
+                "creationDate": "04/24/2022",
+                "category": "Fandom"
+            }
+        },
+
+
+
+        {
+            "characterProfile": {
+                "fullName": "Grapefruit",
+                "gender": "Female",
+                "pronouns": "She/Her",
+                "age":"16",
+                "height": "5'6\"",
+                "weight": "Unknown",
+                "birthday": "May 24th, 2002"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Just Shapes & Beats",
+                "otherUniverses": ["Pink Corruption"]                
+            },
+            
+            "characterSkills": {
+                "abilities": [],
+                "skills": ["Reading"],
+                "weaknesses": ["Bright Lights", "Guillable"],
+                "strengths":[]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "A Black cube with a purple outline and body.",
+                "clothingDescription":"Heavy Boots, Guardian Coat, Pure Armbands, Scarf, Headphones, Wizard Hat, Black Shades",
+                "personalitySummary": "She is friendly with everyone she meets, although she is very guillable.",
+                "imageName":"grapefruit.png",
+                "imageAlt": "A Picture of Grapefruit"
+            },
+
+            "storyInfo":{
+                "backstory":"Grapefruit was a normal shape born in Paradise. Her parents were taken by the corruption when she was young, and she was taken in by a kind stranger. She got a job at the local library once she started high school. She takes her job seriously but she can sometimes be found half-asleep behind the counter.",
+                "occupation":"Librarian"
+            },
+
+            "metaInfo":{
+                "creatorNotes":["Art by by wonderful friend Aleta/Eepy!"],
+                "tags": ["jsab", "good", "old"],
+                "creationDate": "05/24/2022",
+                "category": "Fandom"
+            }
+        },
+
+
+        
+        {
+            "characterProfile": {
+                "fullName": "",
+                "gender": "",
+                "pronouns": "",
+                "age":"",
+                "height": "",
+                "weight": "",
+                "birthday": ""
+            },
+
+            "universeInfo":{
+                "mainUniverse": "",
+                "otherUniverses": []                
+            },
+            
+            "characterSkills": {
+                "abilities": [],
+                "skills": [],
+                "weaknesses": [],
+                "strengths":[]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "",
+                "clothingDescription":"",
+                "personalitySummary": "",
+                "imageName":"",
+                "imageAlt": ""
+            },
+
+            "storyInfo":{
+                "backstory":"",
+                "occupation":""
+            },
+
+            "metaInfo":{
+                "creatorNotes":[],
+                "tags": [],
+                "creationDate": "mm/dd/yyyy",
+                "category": ""
             }
         }
+
     ]
 }

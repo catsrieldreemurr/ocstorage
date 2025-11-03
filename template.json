@@ -39,7 +39,8 @@
             "metaInfo":{
                 "creatorNotes":[],
                 "tags": [],
-                "creationDate": "mm/dd/yyyy"
+                "creationDate": "mm/dd/yyyy",
+                "category": ""
             }
         }
     ]
