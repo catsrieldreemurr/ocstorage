@@ -776,6 +776,50 @@
                 "creationDate": "mm/dd/yyyy",
                 "category": "Non-Fandom"
             }
+        },
+
+          {
+            "characterProfile": {
+                "fullName": "Tabbylate",
+                "gender": "Female",
+                "pronouns": "She/Her",
+                "age":"18",
+                "height": "Unknown",
+                "weight": "Unknown",
+                "birthday": "September 6th"
+            },
+
+            "universeInfo":{
+                "mainUniverse": "Deltarune",
+                "otherUniverses": ["Undertale"]                
+            },
+            
+            "characterSkills": {
+                "abilities": [],
+                "skills": [],
+                "weaknesses": [],
+                "strengths":[]
+            },
+
+            "descriptions":{
+                "appearanceDescription": "Tabbylate is a cybernetic darkner, resembling a younger version of Tasque Manager. She has a white, diamond shamed head with yellow eyes. She has a blue plug tail, and hair pin.",
+                "clothingDescription":"Maid Dress, Gray Bow",
+                "personalitySummary": "Tabbylate is a shy and reserved tasque. She feels safe around Tasque Manager, and will often try to stay around her.",
+                "imageURL":"https://github.com/catsrieldreemurr/ocstorage/blob/main/images/tabbylate.png?raw=true",
+                "imageAlt": "A Picture of Tabbylate"
+            },
+
+            "storyInfo":{
+                "backstory":"Tabbylate is one of the youngest Tasques. She lived by herself in the Castle, until she started working under Queen. She started getting close with the Tasque Manager, seeing her as a mentor.",
+                "occupation":"Maid, Working Under Tasque Manager for Queen"
+            },
+
+            "metaInfo":{
+                "creatorNotes":["Tasque Manager's Adoptive Daughter <3"],
+                "tags": ["deltarune", "undertale", "darkner", "tasqueManager"],
+                "creationDate": "06/10/2025",
+                "category": "Fandom"
+            }
         }
 
     ]
